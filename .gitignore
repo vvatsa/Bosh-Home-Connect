@@ -1,0 +1,5 @@
+# Client certificates/keys and dumps from a real controller: never commit
+*.pem
+dumps/
+.venv/
+__pycache__/

@@ -1,0 +1,1 @@
+boschshcpy>=0.6.27
